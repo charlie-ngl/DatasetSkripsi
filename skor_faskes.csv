@@ -1,0 +1,513 @@
+,KotaKab,skor
+0,Kab. Halmahera Timur,430
+1,Kab. Solok,610
+2,Kab. Aceh Barat Daya,450
+3,Kab. Aceh Besar,990
+4,Kab. Aceh Jaya,410
+5,Kab. Aceh Selatan,600
+6,Kab. Aceh Singkil,530
+7,Kab. Aceh Tamiang,850
+8,Kab. Aceh Tengah,710
+9,Kab. Aceh Tenggara,810
+10,Kab. Aceh Timur,1210
+11,Kab. Aceh Utara,810
+12,Kab. Agam,890
+13,Kab. Alor,850
+14,Kab. Asahan,2090
+15,Kab. Asmat,420
+16,Kab. Badung,2660
+17,Kab. Balangan,500
+18,Kab. Bandung,3670
+19,Kab. Bandung Barat,2700
+20,Kab. Banggai,610
+21,Kab. Banggai Kepulauan,430
+22,Kab. Banggai Laut,350
+23,Kab. Bangka,1830
+24,Kab. Bangka Barat,650
+25,Kab. Bangka Selatan,450
+26,Kab. Bangka Tengah,670
+27,Kab. Bangkalan,1310
+28,Kab. Bangli,1120
+29,Kab. Banjar,1680
+30,Kab. Banjarnegara,1330
+31,Kab. Bantaeng,560
+32,Kab. Bantul,4120
+33,Kab. Banyuasin,1100
+34,Kab. Banyumas,6520
+35,Kab. Banyuwangi,3970
+36,Kab. Barito Kuala,560
+37,Kab. Barito Selatan,440
+38,Kab. Barito Timur,430
+39,Kab. Barito Utara,520
+40,Kab. Barru,470
+41,Kab. Batang,1390
+42,Kab. Batang Hari,740
+43,Kab. Batu Bara,810
+44,Kab. Bekasi,9330
+45,Kab. Belitung,690
+46,Kab. Belitung Timur,390
+47,Kab. Belu,1110
+48,Kab. Bener,420
+49,Kab. Bengkalis,1670
+50,Kab. Bengkayang,790
+51,Kab. Bengkulu Tengah,510
+52,Kab. Bengkulu Utara,840
+53,Kab. Berau,730
+54,Kab. Biak Numfor,850
+55,Kab. Bima,830
+56,Kab. Bintan (Kepri),770
+57,Kab. Bireun,1850
+58,Kab. Blitar,2170
+59,Kab. Blora,2190
+60,Kab. Boalemo,410
+61,Kab. Bogor,9040
+62,Kab. Bojonegoro,2980
+63,Kab. Boloangmongondow,490
+64,Kab. Bombana,540
+65,Kab. Bondowoso,1290
+66,Kab. Bone,1580
+67,Kab. Bone Bolango,820
+68,Kab. Bouven Digul,520
+69,Kab. Boyolali,3640
+70,Kab. Brebes,4030
+71,Kab. Buleleng,2390
+72,Kab. Bulukumba,670
+73,Kab. Bulungan,520
+74,Kab. Bungo,1230
+75,Kab. Buol,430
+76,Kab. Buru,400
+77,Kab. Buru Selatan,410
+78,Kab. Buton,430
+79,Kab. Buton Selatan,370
+80,Kab. Buton Tengah,410
+81,Kab. Buton Utara,400
+82,Kab. Ciamis,1960
+83,Kab. Cianjur,1890
+84,Kab. Cilacap,2540
+85,Kab. Cirebon,4270
+86,Kab. Dairi,690
+87,Kab. Deiyai,390
+88,Kab. Deli Serdang,4770
+89,Kab. Demak,1680
+90,Kab. Dharmasraya,580
+91,Kab. Dogiyai,410
+92,Kab. Dompu,470
+93,Kab. Donggala,490
+94,Kab. Empat Lawang,420
+95,Kab. Ende,870
+96,Kab. Enrekang,480
+97,Kab. Fak Fak,400
+98,Kab. Flores Timur,560
+99,Kab. Garut,2730
+100,Kab. Gayo Lues,480
+101,Kab. Gianyar,2360
+102,Kab. Gorontalo,970
+103,Kab. Gorontalo Utara,470
+104,Kab. Gowa,970
+105,Kab. Gresik,5190
+106,Kab. Grobogan,2380
+107,Kab. Gunung Kidul,1860
+108,Kab. Gunung Mas,470
+109,Kab. Halmahera Barat,430
+110,Kab. Halmahera Selatan,650
+111,Kab. Halmahera Tengah,400
+112,Kab. Halmahera Utara,760
+113,Kab. Hulu Sungai Selatan,1080
+114,Kab. Hulu Sungai Tengah,660
+115,Kab. Hulu Sungai Utara,540
+116,Kab. Humbang Hasundutan,490
+117,Kab. Indragiri Hilir,1130
+118,Kab. Indragiri Hulu,1170
+119,Kab. Indramayu,2340
+120,Kab. Intan Jaya,350
+121,Kab. Jayapura,530
+122,Kab. Jayawijaya,440
+123,Kab. Jember,4070
+124,Kab. Jembrana,1340
+125,Kab. Jeneponto,510
+126,Kab. Jepara,2110
+127,Kab. Jombang,3850
+128,Kab. Kaimana,370
+129,Kab. Kampar,2300
+130,Kab. Kapuas,650
+131,Kab. Kapuas Hulu,790
+132,Kab. Karang Asem,840
+133,Kab. Karanganyar,1820
+134,Kab. Karawang,6370
+135,Kab. Karo,1700
+136,Kab. Katingan,470
+137,Kab. Kaur,510
+138,Kab. Kayong Utara,380
+139,Kab. Kebumen,4380
+140,Kab. Kediri,3270
+141,Kab. Kendal,1650
+142,Kab. Kep Mentawai,400
+143,Kab. Kep. Anambas,610
+144,Kab. Kep. Seribu,350
+145,Kab. Kepahyang,530
+146,Kab. Kepulauan Aru,600
+147,Kab. Kepulauan Sula,400
+148,Kab. Kerinci,530
+149,Kab. Kerom,400
+150,Kab. Ketapang,1080
+151,Kab. Klaten,4060
+152,Kab. Klungkung,1120
+153,Kab. Kolaka,550
+154,Kab. Kolaka Timur,410
+155,Kab. Kolaka Utara,470
+156,Kab. Konawe,950
+157,Kab. Konawe Kepulauan,360
+158,Kab. Konawe Selatan,570
+159,Kab. Konawe Utara,490
+160,Kab. Kotabaru,730
+161,Kab. Kotawaringin Barat,660
+162,Kab. Kotawaringin Timur,700
+163,Kab. Kuantan Singingi,910
+164,Kab. Kubu Raya,1130
+165,Kab. Kudus,3150
+166,Kab. Kulon Progo,1970
+167,Kab. Kuningan,3090
+168,Kab. Kupang,590
+169,Kab. Kutai Barat,520
+170,Kab. Kutai Kertanegara,1480
+171,Kab. Kutai Timur,1620
+172,Kab. Labuhanbatu,940
+173,Kab. Labuhanbatu Selatan,1170
+174,Kab. Labuhanbatu Utara,1120
+175,Kab. Lahat,1080
+176,Kab. Lamandau,410
+177,Kab. Lamongan,3490
+178,Kab. Lampung Barat,740
+179,Kab. Lampung Selatan,1500
+180,Kab. Lampung Tengah,3050
+181,Kab. Lampung Timur,1830
+182,Kab. Lampung Utara,1790
+183,Kab. Landak,480
+184,Kab. Langkat,1800
+185,Kab. Lanny Jaya,390
+186,Kab. Lebak,1740
+187,Kab. Lebong,460
+188,Kab. Lembata,650
+189,Kab. Lima Puluh Koto,600
+190,Kab. Lingga,670
+191,Kab. Lombok Barat,830
+192,Kab. Lombok Tengah,1420
+193,Kab. Lombok Timur,1270
+194,Kab. Lombok Utara,390
+195,Kab. Lumajang,2190
+196,Kab. Luwu,1030
+197,Kab. Luwu Timur,870
+198,Kab. Luwu Utara,830
+199,Kab. Madiun,1350
+200,Kab. Magelang,1600
+201,Kab. Magetan,1180
+202,Kab. Mahakam Ulu,350
+203,Kab. Majalengka,1870
+204,Kab. Majene,480
+205,Kab. Malaka,480
+206,Kab. Malang,5180
+207,Kab. Malinau,710
+208,Kab. Maluku Barat Daya,490
+209,Kab. Maluku Tengah,1420
+210,Kab. Maluku Tenggara,690
+211,Kab. Mamasa,490
+212,Kab. Mamberamo Tengah,340
+213,Kab. Mamuju,1390
+214,Kab. Mamuju Tengah,400
+215,Kab. Mamuju Utara,520
+216,Kab. Mandailing Natal,1240
+217,Kab. Manggarai,800
+218,Kab. Manggarai Barat,730
+219,Kab. Manggarai Timur,520
+220,Kab. Manokwari,760
+221,Kab. Manokwari Selatan,330
+222,Kab. Mapi,400
+223,Kab. Maros,940
+224,Kab. Maybrat,430
+225,Kab. Melawi,930
+226,Kab. Membramo Raya,370
+227,Kab. Mempawah,480
+228,Kab. Merangin,920
+229,Kab. Meranti,400
+230,Kab. Merauke,1180
+231,Kab. Mesuji,430
+232,Kab. Mimika,1430
+233,Kab. Minahasa,1540
+234,Kab. Minahasa Selatan,1130
+235,Kab. Minahasa Tenggara,500
+236,Kab. Mojokerto,3430
+237,Kab. Morowali,390
+238,Kab. Morowali Utara,450
+239,Kab. Muara Enim,980
+240,Kab. Muara Jambi,1090
+241,Kab. Muko-Muko,510
+242,Kab. Muna,660
+243,Kab. Murung Raya,450
+244,Kab. Musi Banyuasin,1350
+245,Kab. Musi Rawas,880
+246,Kab. Musi Rawas Utara,440
+247,Kab. Nabire,600
+248,Kab. Nagan Raya,480
+249,Kab. Nagekeo,390
+250,Kab. Natuna,460
+251,Kab. Nduga,370
+252,Kab. Ngada,450
+253,Kab. Nganjuk,1590
+254,Kab. Ngawi,1250
+255,Kab. Nias,390
+256,Kab. Nias Barat,380
+257,Kab. Nias Selatan,690
+258,Kab. Nias Utara,400
+259,Kab. Nunukan,460
+260,Kab. O.K.U Selatan,550
+261,Kab. O.K.U Timur,1450
+262,Kab. Ogan Ilir,910
+263,Kab. Ogan Komering Hilir,790
+264,Kab. Ogan Komering Ulu,1190
+265,Kab. Pacitan,850
+266,Kab. Padang Lawas,720
+267,Kab. Padang Lawas Utara,510
+268,Kab. Padang Pariaman,900
+269,Kab. Pakpak Bharat,380
+270,Kab. Pamekasan,1560
+271,Kab. Pandeglang,770
+272,Kab. Pangandaran,510
+273,Kab. Pangkep,600
+274,Kab. Paniai,470
+275,Kab. Parigi Moutong,1050
+276,Kab. Pasaman,780
+277,Kab. Pasaman Barat,1110
+278,Kab. Pasir,900
+279,Kab. Pasir Utara,480
+280,Kab. Pasuruan,2740
+281,Kab. Pati,3290
+282,Kab. Pegunungan Arfak,380
+283,Kab. Pegunungan Bintang,590
+284,Kab. Pekalongan,1360
+285,Kab. Pelalawan,1430
+286,Kab. Pemalang,2490
+287,Kab. Penungkalabab L Ilir,410
+288,Kab. Pesawaran,750
+289,Kab. Pesisir Barat,420
+290,Kab. Pesisir Selatan,800
+291,Kab. Pidie,1670
+292,Kab. Pidie Jaya,450
+293,Kab. Pinrang,820
+294,Kab. Pohuwato,460
+295,Kab. Polewali Mandar,840
+296,Kab. Ponorogo,1830
+297,Kab. Poso,790
+298,Kab. Pringsewu,1370
+299,Kab. Probolinggo,2100
+300,Kab. Pulang Pisau,680
+301,Kab. Pulau Morotai,380
+302,Kab. Pulau Taliabu,350
+303,Kab. Puncak,370
+304,Kab. Puncak Jaya,370
+305,Kab. Purbalingga,2230
+306,Kab. Purwakarta,3250
+307,Kab. Purworejo,2540
+308,Kab. Raja Ampat,480
+309,Kab. Rejang Lebong,660
+310,Kab. Rembang,1010
+311,Kab. Rokan Hilir,1180
+312,Kab. Rokan Hulu,1470
+313,Kab. Rote-Ndao,430
+314,Kab. Sabu Raijua,350
+315,Kab. Salatiga,1340
+316,Kab. Sambas,1250
+317,Kab. Samosir,470
+318,Kab. Sampang,790
+319,Kab. Sanggau,1010
+320,Kab. Sangihe,500
+321,Kab. Sangirtalaut,790
+322,Kab. Sarmi,380
+323,Kab. Sarolangun,640
+324,Kab. Sekadau,440
+325,Kab. Selayar,470
+326,Kab. Seluma,540
+327,Kab. Semarang,2330
+328,Kab. Seram Bagian Barat,460
+329,Kab. Seram Bagian Timur,480
+330,Kab. Serang,1490
+331,Kab. Serdang Bedagai,1450
+332,Kab. Seruyan,730
+333,Kab. Siak Sri Indrapura,600
+334,Kab. Sidenreng Rappang,1010
+335,Kab. Sidoarjo,5930
+336,Kab. Sigi,490
+337,Kab. Sikka,1130
+338,Kab. Simalungun,2480
+339,Kab. Simeulue,430
+340,Kab. Sinjai,510
+341,Kab. Sintang,890
+342,Kab. Situbondo,1660
+343,Kab. Sleman,7350
+344,Kab. Solok Sel,480
+345,Kab. Soppeng,510
+346,Kab. Sor Sel,430
+347,Kab. Sorong,500
+348,Kab. Sragen,3100
+349,Kab. Subang,2590
+350,Kab. Subulussalam,390
+351,Kab. Sukabumi,2940
+352,Kab. Sukamara,360
+353,Kab. Sukoharjo,2950
+354,Kab. Sumba Barat,700
+355,Kab. Sumba Barat Daya,460
+356,Kab. Sumba Tengah,370
+357,Kab. Sumba Timur,1100
+358,Kab. Sumbawa Barat,490
+359,Kab. Sumbawa Besar,870
+360,Kab. Sumedang,1620
+361,Kab. Sumenep,1470
+362,Kab. Supiori,350
+363,Kab. T.T.S Soe,720
+364,Kab. T.T.U Kefamenanu,940
+365,Kab. Tabalong,900
+366,Kab. Tabanan,2290
+367,Kab. Takalar,810
+368,Kab. Tambrauw,370
+369,Kab. Tana Tidung,340
+370,Kab. Tana Toraja,1030
+371,Kab. Tanah Bumbu,1080
+372,Kab. Tanah Datar,1310
+373,Kab. Tanah Laut,1380
+374,Kab. Tangerang,7220
+375,Kab. Tanggamus,870
+376,Kab. Tanjab Bar,610
+377,Kab. Tanjab Tim,470
+378,Kab. Tapanuli Selatan,500
+379,Kab. Tapanuli Tengah,710
+380,Kab. Tapanuli Utara,570
+381,Kab. Tapin,550
+382,Kab. Tasikmalaya,1570
+383,Kab. Tebo,520
+384,Kab. Tegal,2560
+385,Kab. Teluk Bintuni,490
+386,Kab. Teluk Wondama,350
+387,Kab. Temanggung,1630
+388,Kab. Tj Balai Karimun,740
+389,Kab. Toba Samosir,780
+390,Kab. Tojo Una Una,690
+391,Kab. Toli Toli,480
+392,Kab. Tolikara,540
+393,Kab. Toraja Utara,880
+394,Kab. Trenggalek,920
+395,Kab. Tuban,1690
+396,Kab. Tulang Bawang,1060
+397,Kab. Tulang Bawang Barat,690
+398,Kab. Tulungagung,3330
+399,Kab. Wajo,890
+400,Kab. Wakatobi,500
+401,Kab. Waropen,390
+402,Kab. Way Kanan,1180
+403,Kab. Wonogiri,2450
+404,Kab. Wonosobo,1190
+405,Kab. Yahukimo,600
+406,Kab. Yalimo,360
+407,Kab. Yapen,470
+408,Kab.Aceh Barat,1250
+409,Kab.Bolaang Mongondow Slt,370
+410,Kab.Bolaang Mongondow Tmr,350
+411,Kab.Bolaang Mongondow Utr,400
+412,Kab.Kp Siao Tagulandang B,670
+413,Kab.Maluku Tenggara Barat,460
+414,Kab.Muna Barat,450
+415,Kota Ambon,2840
+416,Kota Balikpapan,4900
+417,Kota Banda Aceh,3420
+418,Kota Bandar Lampung,5500
+419,Kota Bandung,9620
+420,Kota Banjar,1080
+421,Kota Banjar Baru,1660
+422,Kota Banjarmasin,3160
+423,Kota Batam,4380
+424,Kota Batu,1480
+425,Kota Bau-Bau,790
+426,Kota Bekasi,10460
+427,Kota Bengkulu,2800
+428,Kota Bengkulu Selatan,780
+429,Kota Bima,980
+430,Kota Binjai,2300
+431,Kota Bitung,1070
+432,Kota Blitar,1230
+433,Kota Bogor,5090
+434,Kota Bontang,1520
+435,Kota Bukittinggi,1480
+436,Kota Cilegon,1090
+437,Kota Cimahi,2030
+438,Kota Cirebon,3170
+439,Kota Denpasar,5490
+440,Kota Depok,6120
+441,Kota Dumai,540
+442,Kota Gorontalo,1860
+443,Kota Gunungsitoli,680
+444,Kota Jakarta Barat,6120
+445,Kota Jakarta Pusat,7030
+446,Kota Jakarta Selatan,9230
+447,Kota Jakarta Timur,11740
+448,Kota Jakarta Utara,6420
+449,Kota Jambi,3860
+450,Kota Jayapura,2230
+451,Kota Kediri,2510
+452,Kota Kendari,3230
+453,Kota Kotamobagu,1170
+454,Kota Kupang,3320
+455,Kota Langsa,1250
+456,Kota Lhokseumawe,2460
+457,Kota Lubuk Linggau,1230
+458,Kota Madiun,2090
+459,Kota Magelang,1720
+460,Kota Makassar,11690
+461,Kota Malang,6130
+462,Kota Manado,4500
+463,Kota Mataram,3310
+464,Kota Medan,13470
+465,Kota Metro,1790
+466,Kota Mojokerto,1680
+467,Kota Padang,6450
+468,Kota Padang Panjang,610
+469,Kota Padang Sidempuan,1030
+470,Kota Pagar Alam,420
+471,Kota Palangka Raya,1660
+472,Kota Palembang,9680
+473,Kota Palopo,1880
+474,Kota Palu,4160
+475,Kota Pangkal Pinang,1300
+476,Kota Pariaman,1200
+477,Kota Pasuruan,490
+478,Kota Payakumbuh,1200
+479,Kota Pekalongan,2410
+480,Kota Pekan Baru,7400
+481,Kota Pematang Siantar,2220
+482,Kota Pontianak,2750
+483,Kota Prabumulih,1340
+484,Kota Probolinggo,1310
+485,Kota Sabang,650
+486,Kota Samarinda,4210
+487,Kota Sawahlunto,400
+488,Kota Semarang,7290
+489,Kota Serang,2130
+490,Kota Sibolga,700
+491,Kota Singkawang,2040
+492,Kota Solok,920
+493,Kota Sorong,1640
+494,Kota Sukabumi,1820
+495,Kota Sungai Penuh,440
+496,Kota Surabaya,12630
+497,Kota Surakarta,4580
+498,Kota Tangerang,8380
+499,Kota Tangerang Selatan,5640
+500,Kota Tanjung Balai,690
+501,Kota Tanjung Pinang,1030
+502,Kota Tarakan,900
+503,Kota Tasikmalaya,3290
+504,Kota Tebing Tinggi,1460
+505,Kota Tegal,1070
+506,Kota Ternate,1730
+507,Kota Tidore Kepulauan,400
+508,Kota Tomohon,740
+509,Kota Tual,450
+510,Kota Yogyakarta,3880
+511,Minahasa Utara,1080
